@@ -1,0 +1,5 @@
+dex.trades
+nft.trades
+lending.borrow
+lending.liquidations
+lending.repay

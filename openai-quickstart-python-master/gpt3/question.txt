@@ -1,1 +1,1 @@
-on-chain activities are transactions involving swaps, trades, liquidations, or borrows. Using a variety of sentence lengths and examples of transactions, please answer the following: what are the most interesting on-chain transactions involving {}?
+Describe some of the most interesting on-chain transactions involving {} (with hashes)?

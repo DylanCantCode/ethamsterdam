@@ -11,18 +11,16 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 def index():
     if request.method == "POST":
         tags = request.form['tags']
-        tags = tags.split(",")
+        tags = tags.split(',')
         responses = []
         question = open(r"C:\Users\dylan\OneDrive\Documents\Coding\ethamsterdam\openai-quickstart-python-master\gpt3\question.txt").read()
         with open(r"C:\Users\dylan\OneDrive\Documents\Coding\ethamsterdam\openai-quickstart-python-master\gpt3\examples.txt") as f:
             examples_context = f.readline()
-            examples = [x.split(',') for x in f.readlines()]
+            examples = [x.split('*') for x in f.readlines()]
 
-
-        print(question, examples, examples_context)
         for tag in tags:
             response = openai.Answer.create(
-                file="file-QttiYxAADhqMs85yJY5DW8Pn",
+                file="file-m5aeuE3Y6Mehs0Myod4yhibP",
                 model="text-davinci-002",
                 question=question.format(tag),
                 temperature=0.7,

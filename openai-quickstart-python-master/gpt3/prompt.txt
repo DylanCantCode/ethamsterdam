@@ -1,0 +1,52 @@
+text1: The most important on-chain transactions involving WETH are:
+
+- 0x74de5d4fcbf63e00296fd95d33236b9794016631 buying 3.37025 WETH for 10381.327091 USDC on the 0x Native DEX
+- 0xcc9a0b7c43dc2a5f023bb9b738e45b0ef6b06e04 borrowing 200.0 WETH from Aave at a cost of 620198.0 USD
+- 0xc319bcfd24e50fcf932c98b43bf7ab10460f7ab2 borrowing 0.155 WETH from Compound at a cost of 489.6388 USD
+- 0x21795eb77d2bbd56a7704f048eb53676da96cf0f borrowing 2.0 WETH from Aave at a cost of 6200.74 USD
+
+text2: - On LooksRare, a Cryptoadz nft was sold for 3.9868 WETH.
+- On Matcha, 1.63788158 WBTC was exchanged for 68177.440486 USDC.
+- On 0x API, 0.88162137 WBTC was exchanged for 36886.14011 USDT.
+- On 0x Native, 0.88162137 WBTC was exchanged for 36886.14011 USDT.
+- On Aave, 25.0 WBTC was borrowed by 0x74b3691ebc3fb083e36065a1986d6c490b13e95a.
+- On Aave, 0.15003791 WBTC was borrowed by 0x7c0d3cf3982142eda2b992e9f912ac4dea662258.
+- On Aave, 60.0 WBTC was borrowed by 0x66b870ddf78c975af5cd8edc6de25eca81791de1.
+- On Aave, 60.0 WBTC was borrowed by 0x06185ca50a8ab43726b08d8e65c6f2173fb2b236.
+- On Aave, 1.5 WBTC was borrowed by 0x3b065a49e4bd96961c1717caea0720b1964bb79d.
+
+summary: 0xcc9a0b7c43dc2a5f023bb9b738e45b0ef6b06e04 bought 200.0 WETH from Aave at a cost of 620198.0 USD. Both 0x66b870ddf78c975af5cd8edc6de25eca81791de1 and 0x06185ca50a8ab43726b08d8e65c6f2173fb2b236h purchased 60.0 WBTC. Meanwhile, on LooksRare a Cryptoadz nft was sold for 3.9868 WETH.
+
+text1: The most important on-chain transactions involving FRAX are:
+
+-The transaction where 0x3d71d79c224998e608d03c5ec9b405e7a38505f0 bought 43401.7473075102 FRAX from\\xa976ea51b9ba3232706af125a92e32788dc08ddc at a cost of 13.9226141946628 WETH.
+-The transaction where 0xf07704777d6bc182bf2c67fbda48913169b84983 bought 22138.88 FRAX from \xf5e8d0f6ed79c91b3b8c045e087dc43fbba8c978 at a cost of 6660.28583581048 SUSHI.
+-The transaction where 0xa10fca31a2cb432c9ac976779dc947cfdb003ef0 bought 31777.7044348284 FRAX from \xa10fca31a2cb432c9ac976779dc947cfdb003ef0 at a cost of 31806.9375347837 FEI.
+text2: -The address 0xc52f7014f54a33c716b622c61e39f7e685206846 purchased a Cool Cat nft from 0xceb78abfad166c11e350156fd671b385265a6c87 at a cost of 9.0 WETH. The transaction took place on LooksRare.
+
+-The address 0x4e39eb5df29720aa008f09b3b2f4e300c0ee693b purchased a Cool Cat nft from 0x234d783dcc03a60b97f4876147b05b8910796df1 at a cost of 7.9 WETH. The transaction took place on LooksRare.
+
+-The address 0x293d7b830d350b7b6089b42e341c5a2d251770e8 purchased a Cool Cat nft from 0x53576de91c6950a4b439fe90e2b1109dfddbc68b at a cost of 9.5 WETH. The transaction took place on LooksRare.
+
+-The address 0x5cbd390539caaa24152d62003de2522565470152 purchased a Cool Cat nft from 0x2532429eacb9cb721b126ec5ea72631d31a9606d at a cost of 9.75 WETH. The transaction took place on LooksRare.
+
+summary: 13.9 WETH worth of FRAX was bought by 0x3d71d79c224998e608d03c5ec9b405e7a38505f0 from 0xa976ea51b9ba3232706af125a92e32788dc08ddc. A further 31806 FEI worth of FRAX was bought by 0xa10fca31a2cb432c9ac976779dc947cfdb003ef0. There was also a Cool Cat nft sale by 0x2532429eacb9cb721b126ec5ea72631d31a9606 for a price of 9.75 WETH. It was purchased by 0x5cbd390539caaa24152d62003de2522565470152 on LooksRare.
+
+text1: The most important on-chain transactions involving FRAX are:
+
+-The transaction where 0x3d71d79c224998e608d03c5ec9b405e7a38505f0 bought 43401.7473075102 RETH from\\xa976ea51b9ba3232706af125a92e32788dc08ddc at a cost of 13.9226141946628 WETH.
+-The transaction where 0xf07704777d6bc182bf2c67fbda48913169b84983 bought 22138.88 RETH from \xf5e8d0f6ed79c91b3b8c045e087dc43fbba8c978 at a cost of 6660.28583581048 SUSHI.
+-The transaction where 0xa10fca31a2cb432c9ac976779dc947cfdb003ef0 bought 31777.7044348284 RETH from \xa10fca31a2cb432c9ac976779dc947cfdb003ef0 at a cost of 31806.9375347837 FEI.
+text2: -The address 0xc52f7014f54a33c716b622c61e39f7e685206846 purchased a Cool Cat nft from 0xceb78abfad166c11e350156fd671b385265a6c87 at a cost of 9.0 WETH. The transaction took place on LooksRare.
+
+-The address 0x4e39eb5df29720aa008f09b3b2f4e300c0ee693b purchased a Cool Cat nft from 0x234d783dcc03a60b97f4876147b05b8910796df1 at a cost of 7.9 WETH. The transaction took place on LooksRare.
+
+-The address 0x293d7b830d350b7b6089b42e341c5a2d251770e8 purchased a Cool Cat nft from 0x53576de91c6950a4b439fe90e2b1109dfddbc68b at a cost of 9.5 WETH. The transaction took place on LooksRare.
+
+-The address 0x5cbd390539caaa24152d62003de2522565470152 purchased a Cool Cat nft from 0x2532429eacb9cb721b126ec5ea72631d31a9606d at a cost of 9.75 WETH. The transaction took place on LooksRare.
+
+summary: 13.9 WETH worth of RETH was bought by 0x3d71d79c224998e608d03c5ec9b405e7a38505f0 from 0xa976ea51b9ba3232706af125a92e32788dc08ddc. A further 31806 FEI worth of RETH was bought by 0xa10fca31a2cb432c9ac976779dc947cfdb003ef0. There was also a Cool Cat nft sale by 0x2532429eacb9cb721b126ec5ea72631d31a9606 for a price of 9.75 WETH. It was purchased by 0x5cbd390539caaa24152d62003de2522565470152 on LooksRare.
+
+text1:{}
+text2:{}
+summary:

@@ -5,6 +5,7 @@ openai.api_key = "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"
 
 tags = ["WBTC", "CryptoPunks"]
 responses = []
+#Add finetuing
 for tag in tags:
     response = openai.Answer.create(
         file="file-QttiYxAADhqMs85yJY5DW8Pn",

@@ -17,5 +17,5 @@ build/
 
 .env
 
-openai-quickstart-python-master\get_file.py
-openai-quickstart-python-master\get_answer.py
+openai-quickstart-python-master/get_file.py
+openai-quickstart-python-master/get_answer.py

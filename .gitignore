@@ -16,6 +16,7 @@ build/
 .DS_STORE
 
 .env
+data/*
 
 openai-quickstart-python-master/get_file.py
 openai-quickstart-python-master/get_answer.py

@@ -18,5 +18,5 @@ build/
 .env
 data/*
 
-openai-quickstart-python-master/get_file.py
-openai-quickstart-python-master/get_answer.py
+get_file.py
+get_answer.py

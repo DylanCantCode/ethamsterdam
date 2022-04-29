@@ -6,6 +6,15 @@ from flask import Flask, redirect, render_template, request, url_for
 app = Flask(__name__)
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
+def cache_request(q, r):
+    with open(r"cache\index.txt", "r+") as f:
+        index = int(f.read())
+    with open(r"cache\index.txt", "w") as f:
+        f.write(str(index + 1))
+
+    with open(r"cache\{}".format(index), "w") as f:
+        f.write(str((q, r)))
+
 
 @app.route("/", methods=("GET", "POST"))
 def index():
@@ -28,6 +37,7 @@ def index():
                 examples=examples,
                 max_tokens=500,
             )
+            cache_request([question.format(tag), examples_context, examples], response)
             responses.append(response)
 
         out = ""

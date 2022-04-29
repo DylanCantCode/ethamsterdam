@@ -20,3 +20,5 @@ data/*
 
 get_file.py
 get_answer.py
+
+cache/*

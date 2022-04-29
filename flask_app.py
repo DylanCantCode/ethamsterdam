@@ -13,8 +13,8 @@ def index():
         tags = request.form['tags']
         tags = tags.split(',')
         responses = []
-        question = open(r"C:\Users\dylan\OneDrive\Documents\Coding\ethamsterdam\openai-quickstart-python-master\gpt3\question.txt").read()
-        with open(r"C:\Users\dylan\OneDrive\Documents\Coding\ethamsterdam\openai-quickstart-python-master\gpt3\examples.txt") as f:
+        question = open(r"gpt3/question.txt").read()
+        with open(r"gpt3/examples.txt") as f:
             examples_context = f.readline()
             examples = [x.split('*') for x in f.readlines()]
 

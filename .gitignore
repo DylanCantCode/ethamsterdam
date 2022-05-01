@@ -17,6 +17,7 @@ build/
 
 .env
 data/*
+cache/
 
 get_file.py
 get_answer.py

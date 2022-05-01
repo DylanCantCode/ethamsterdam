@@ -22,8 +22,8 @@ def index():
         tags = request.form['tags']
         tags = tags.split(',')
         responses = []
-        question = open(r"/home/DylanLea/mysite/mysite/gpt3/question.txt").read()
-        with open(r"/home/DylanLea/mysite/mysite/gpt3/examples.txt") as f:
+        question = open(r"/gpt3/question.txt").read()
+        with open(r"/gpt3/examples.txt") as f:
             examples_context = f.readline()
             examples = [x.split('*') for x in f.readlines()]
 
@@ -54,3 +54,7 @@ def index():
 
     result = request.args.get("result")
     return render_template("index.html", result=result)
+
+@app.route("/history/<p>", methods=("GET",))
+def histroy_view(p):
+    return render_template("history.html", history=open(f"cache\{p}").read())
